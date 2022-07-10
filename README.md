@@ -5,7 +5,7 @@ Ce projet a pour but de détérminer, selon le choix de l'utilisateur, des films
 Dans ce programme nous parcourons l'API des livres dans laquelle nous pouvons accéder à partir de ce lien : https://www.googleapis.com/books/v1/volumes?q=isbn. On rentre alors l'ISBN d'un film pour récupérer les informations qui nous permettent de retrouver le livre souhaité (volum info, qui contient: le titre, le nombre de pages et, date de publication et le nom de l'auteur) 
 
 2. movies: le code qui utlise l'API des films.
-Dans ce programme nous utilisons une API qui n'est pas totalment gratuite, nous aurons besoin d'une clé pour pouvoir y accéder (avec ce code : 
+Dans ce programme nous utilisons une API qui n'est pas totalment gratuite, nous aurons besoin de générer une clé pour pouvoir y accéder (avec ce code : 
 ' headers = {
  'x-rapidapi-host': "imdb8.p.rapidapi.com",
 4
