@@ -9,8 +9,8 @@ Dans ce programme nous utilisons une API qui n'est pas totalment gratuite, nous 
 ' headers = {
  'x-rapidapi-host': "imdb8.p.rapidapi.com",
 4
-    'x-rapidapi-key': "a8ec5bd855mshda8fd2635d17aafp1d071cjsn34f7b522f846" '
-en utilisant cet adresse pour accéder à l'API en question : 'imdb8.p.rapidapi.com'. 
+    'x-rapidapi-key': "a8ec5bd855mshda8fd2635d17aafp1d071cjsn34f7b522f846" ')
+en utilisant cet adresse pour accéder à l'API en question : imdb8.p.rapidapi.com. 
 'url = "https://imdb8.p.rapidapi.com/auto-complete"
 req=input("enter what to search:")
 querystring = {"q": req}' Ce code nous permet d'entrer le nom du livres que nous voulons trouver dans l'API films.
