@@ -28,7 +28,7 @@ for item in data:
     print("\n") '
 
 3. Book-Movies : le code qui lie entre les deux dernier files.
-Enfin, Ce programme prend la sortie du programme ISBN pour le mettre en entrée dans la programme MOVIES pour récupérer les livres qui ont été interprétés en films (ceux qui ont étés retrouver dans l'API films) et les mettre dans une base de donnée en utilisons Sqlite3​.
+Enfin, Ce programme prend la sortie du programme ISBN pour le mettre en entrée dans la programme MOVIES pour récupérer les livres qui ont été interprétés en films (ceux qui ont étés retrouver dans l'API films) et les mettre dans une base de donnée en utilisant Sqlite3​.
 
 
 Vous retrouverez la base de données utilisée dans les fichier du Git Hub et tout les programmes.
